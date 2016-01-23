@@ -1,0 +1,3 @@
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\obj\x86\Release\Round_Arkanoid.MainWindow.resources
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\obj\x86\Release\Round_Arkanoid.Properties.Resources.resources
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\obj\x86\Release\Round Arkanoid.csproj.GenerateResource.Cache

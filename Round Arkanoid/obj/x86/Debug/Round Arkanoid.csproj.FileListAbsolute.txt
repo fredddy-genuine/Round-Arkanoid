@@ -1,0 +1,15 @@
+C:\Users\Frady Okavylan\AppData\Local\Temporary Projects\Round Arkanoid\bin\Debug\Round Arkanoid.exe
+C:\Users\Frady Okavylan\AppData\Local\Temporary Projects\Round Arkanoid\bin\Debug\Round Arkanoid.pdb
+C:\Users\Frady Okavylan\AppData\Local\Temporary Projects\Round Arkanoid\obj\x86\Debug\Round_Arkanoid.Form1.resources
+C:\Users\Frady Okavylan\AppData\Local\Temporary Projects\Round Arkanoid\obj\x86\Debug\Round_Arkanoid.Properties.Resources.resources
+C:\Users\Frady Okavylan\AppData\Local\Temporary Projects\Round Arkanoid\obj\x86\Debug\Round Arkanoid.csproj.GenerateResource.Cache
+C:\Users\Frady Okavylan\AppData\Local\Temporary Projects\Round Arkanoid\obj\x86\Debug\Round Arkanoid.exe
+C:\Users\Frady Okavylan\AppData\Local\Temporary Projects\Round Arkanoid\obj\x86\Debug\Round Arkanoid.pdb
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\obj\x86\Debug\Round Arkanoid.exe
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\obj\x86\Debug\Round Arkanoid.pdb
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\bin\Debug\Round Arkanoid.exe
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\bin\Debug\Round Arkanoid.pdb
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\obj\x86\Debug\Round_Arkanoid.MainWindow.resources
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\obj\x86\Debug\Round_Arkanoid.Properties.Resources.resources
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\obj\x86\Debug\Round Arkanoid.csproj.GenerateResource.Cache
+C:\Users\Frady Okavylan\Desktop\univer\Курсова робота\Round Arkanoid\Round Arkanoid\obj\x86\Debug\Round Arkanoid.csprojResolveAssemblyReference.cache
